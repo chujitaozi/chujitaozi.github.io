@@ -1,2 +1,0 @@
-# chujitaozi.github.io
-blog
