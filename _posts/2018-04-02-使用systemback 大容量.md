@@ -3,7 +3,7 @@ layout: post
 title:  systemback的一次失败的使用
 description: systemback可以备份系统，但是我的系统比较大，安装的东西比较多，失败了。
 img:
-date: 2018-04-03  +0800
+date: 2018-04-02  +0800
 ---
 
 systemback可以备份系统，但是我的系统比较大，安装的东西比较多，失败了。  
