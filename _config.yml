@@ -10,12 +10,12 @@ blog_theme: dark # Or use dark
 name: Hodor Ren
 tagline: A bad Killer
 about-description: # Add Discription
-pic: 2.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+pic: top.jpeg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: yuetaoren@outlook.com # Add your Email address
 phone: 044 825 5523 # Add your Phone number
-website: artemsheludko.pw # Add your website, do not add http://
+website: renyuetao.xyz # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: chujitaozi # Add your Github handle
 twitter: '@artemsheludko_' # Add your Twitter handle
