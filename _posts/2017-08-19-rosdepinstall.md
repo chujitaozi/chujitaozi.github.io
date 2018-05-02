@@ -11,9 +11,11 @@ date: 2017-08-19  +0800
 
 于是乎，重新认真阅读readme，发现
 
-$rosdep update
+```
+rosdep update
 
-$rosdep install rgbdslam
+rosdep install rgbdslam
+```
 
 没有运行也不懂作用是什么。于是重新运行，发现虽然安装了g2o，但是没有安装ros-indigo-libg2o，其实这个命令的作用就是安装rgbdslam的依赖项
 
