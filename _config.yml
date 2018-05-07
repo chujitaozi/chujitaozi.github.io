@@ -7,18 +7,18 @@ permalink: ':title/'
 blog_theme: dark # Or use dark
 #about-description: C
 # Profile information
-name: Hodor Ren
-tagline: A bad Killer
-about-description: # Add Discription
+name: Yuetao Ren
+tagline: A Simple Student
+about-description: 好好学习，天天向上！
 pic: top.jpeg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: yuetaoren@outlook.com # Add your Email address
-phone: 044 825 5523 # Add your Phone number
+#phone: 044 825 5523 # Add your Phone number
 website: renyuetao.xyz # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
+#linkedin: # Add your Linkedin handle
 github: chujitaozi # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+#twitter: '@artemsheludko_' # Add your Twitter handle
 
 # Tracker
 analytics:
