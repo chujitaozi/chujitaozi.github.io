@@ -28,13 +28,13 @@ layout: default
         {% else %}
           <li class="github"><a href="http://github.com/artemsheludko" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> github.com/artemsheludko</a></li>
         {% endif %}
-<!--
+
         {% if site.website %}
           <li class="website"><a href="http://{{site.website}}" target="_blank"><i class="fa fa-globe"></i> {{site.website}}</a></li>
         {% else %}
         <li class="website"><a href="http://artemsheludko.pw" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i> artemsheludko.pw</a></li>
         {% endif %}
-
+<!--
         {% if site.linkedin %}
           <li class="linkedin"><a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i> linkedin.com/in/{{site.linkedin}}</a></li>
         {% else %}
